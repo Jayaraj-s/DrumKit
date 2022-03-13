@@ -82,5 +82,5 @@ function buttonAnimation(currentkey) {
 
   setTimeout(function(){
     curkey.classList.remove("pressed");
-  },100);
+  },150);
 }
